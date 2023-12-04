@@ -1,27 +1,5 @@
 # Multimodal Fake News Detection
 
-## Table of Contents
-1. [Team](#team)
-2. [Motivation](#motivation)
-3. [Introduction](#introduction)
-4. [Methodology](#methodology)
-    - [NLP Task Addressed](#nlp-task-addressed)
-    - [Dataset](#dataset)
-    - [Preprocessing](#preprocessing)
-    - [Models and Techniques](#models-and-techniques)
-5. [Experiments and Results Evaluation](#experiments-and-results-evaluation)
-    - [ERNIE Model - Surya Putrevu](#ernie-model---surya-putrevu)
-    - [GPT Model - Rohan Singh](#gpt-model---rohan-singh)
-    - [BERT Model - Kajal Patil](#bert-model---kajal-patil)
-6. [Related Work](#related-work)
-7. [Interesting Insights](#interesting-insights)
-8. [Future Work](#future-work)
-9. [Team Contribution](#team-contribution)
-10. [Code Repository](#code-repository)
-11. [Conclusions](#conclusions)
-12. [Future Directions](#future-directions)
-13. [References](#references)
-
 ## Team
 - Surya Putrevu - [sputre2@pdx.edu](mailto:sputre2@pdx.edu)
 - Kajal Patil - [kajal@pdx.edu](mailto:kajal@pdx.edu)
